@@ -1,0 +1,27 @@
+h1 {
+    color: purple;
+}
+p {
+    color: blue;
+}
+body {
+    background-color:bisque
+}
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.item{
+    border: solid;
+   border-color: green;
+}
